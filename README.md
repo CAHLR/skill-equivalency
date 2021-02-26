@@ -1,6 +1,8 @@
 # Skill Equivalency Learning
 
-This repo contains the datasets and code for the 2021 LAK paper **Learning Skill Equivalencies Across Platform Taxonomies**.
+This repo contains the datasets and code for the paper:
+
+Li, Z., Ren, C., Li, X., & Pardos, Z.A. (Accepted) [Learning Skill Transfer Models Across Systems](https://arxiv.org/abs/2102.09377). To appear in N. Dowell, S. Joksimovic, M. Scheffel, & G. Siemens (Eds.) *Proceedings of the 11th International Conference on Learning Analytics and Knowledge* (LAK). ACM.
 
 
 ## Files and folders
