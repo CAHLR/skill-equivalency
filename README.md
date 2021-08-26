@@ -2,7 +2,7 @@
 
 This repo contains the datasets and code for the paper:
 
-Li, Z., Ren, C., Li, X., & Pardos, Z.A. (Accepted) [Learning Skill Transfer Models Across Systems](https://arxiv.org/abs/2102.09377). To appear in N. Dowell, S. Joksimovic, M. Scheffel, & G. Siemens (Eds.) *Proceedings of the 11th International Conference on Learning Analytics and Knowledge* (LAK). ACM.
+Li, Z., Ren, C., Li, X., & Pardos, Z.A. (2021) [Learning Skill Transfer Models Across Systems](https://dl.acm.org/doi/fullHtml/10.1145/3448139.3448173). In N. Dowell, S. Joksimovic, M. Scheffel, & G. Siemens (Eds.) _Proceedings of the 11th International Conference on Learning Analytics and Knowledge_ (LAK). ACM. Pages 354-363.
 
 
 ## Files and folders
